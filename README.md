@@ -8,5 +8,5 @@ El código pone los nombres como nombre propio (LUCAS -> Lucas).\n
 
 Todavia no encuentro una manera de poder adjuntar la firma, apenas lo encuentre actualizo.\
 
-pip install pandas
-pip install decouple
+pip install pandas\n
+pip install python-decouple
